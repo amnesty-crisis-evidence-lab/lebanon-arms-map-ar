@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lebanon-arms-map-ar/static/css/main.b93ac3df.chunk.css",
+    "main.js": "/lebanon-arms-map-ar/static/js/main.1522f70b.chunk.js",
+    "main.js.map": "/lebanon-arms-map-ar/static/js/main.1522f70b.chunk.js.map",
+    "runtime-main.js": "/lebanon-arms-map-ar/static/js/runtime-main.05410419.js",
+    "runtime-main.js.map": "/lebanon-arms-map-ar/static/js/runtime-main.05410419.js.map",
+    "static/js/2.c972a251.chunk.js": "/lebanon-arms-map-ar/static/js/2.c972a251.chunk.js",
+    "static/js/2.c972a251.chunk.js.map": "/lebanon-arms-map-ar/static/js/2.c972a251.chunk.js.map",
+    "static/js/3.53bb1606.chunk.js": "/lebanon-arms-map-ar/static/js/3.53bb1606.chunk.js",
+    "static/js/3.53bb1606.chunk.js.map": "/lebanon-arms-map-ar/static/js/3.53bb1606.chunk.js.map",
+    "index.html": "/lebanon-arms-map-ar/index.html",
+    "static/css/main.b93ac3df.chunk.css.map": "/lebanon-arms-map-ar/static/css/main.b93ac3df.chunk.css.map",
+    "static/js/2.c972a251.chunk.js.LICENSE.txt": "/lebanon-arms-map-ar/static/js/2.c972a251.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05410419.js",
+    "static/js/2.c972a251.chunk.js",
+    "static/css/main.b93ac3df.chunk.css",
+    "static/js/main.1522f70b.chunk.js"
+  ]
+}
