@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lebanon-arms-map-ar/static/css/main.b93ac3df.chunk.css",
-    "main.js": "/lebanon-arms-map-ar/static/js/main.1522f70b.chunk.js",
-    "main.js.map": "/lebanon-arms-map-ar/static/js/main.1522f70b.chunk.js.map",
+    "main.js": "/lebanon-arms-map-ar/static/js/main.6b7d8126.chunk.js",
+    "main.js.map": "/lebanon-arms-map-ar/static/js/main.6b7d8126.chunk.js.map",
     "runtime-main.js": "/lebanon-arms-map-ar/static/js/runtime-main.05410419.js",
     "runtime-main.js.map": "/lebanon-arms-map-ar/static/js/runtime-main.05410419.js.map",
     "static/js/2.c972a251.chunk.js": "/lebanon-arms-map-ar/static/js/2.c972a251.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.05410419.js",
     "static/js/2.c972a251.chunk.js",
     "static/css/main.b93ac3df.chunk.css",
-    "static/js/main.1522f70b.chunk.js"
+    "static/js/main.6b7d8126.chunk.js"
   ]
 }
